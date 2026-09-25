@@ -1,0 +1,21 @@
+COMPLEXITY ANALYSIS
+
+1. Stack-Based Postfix Evaluation
+
+Time Complexity: O(n)
+Space Complexity: O(n)
+
+
+2. Expression Tree
+
+Tree Construction Time: O(n)
+Tree Evaluation Time: O(n)
+Space Complexity: O(n)
+
+
+Here, n represents the number of elements in the expression.
+
+For the given postfix expression:
+8 3 2 * + 6 2 / -
+
+There are 9 elements in total.
