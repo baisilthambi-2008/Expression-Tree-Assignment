@@ -1,0 +1,13 @@
+FINAL CONCLUSION
+
+The given postfix expression was successfully evaluated using
+both stack-based postfix evaluation and Expression Tree evaluation.
+
+Both approaches produced the same result, which is 11. Both have
+O(n) time complexity and O(n) space complexity.
+
+The stack-based method directly evaluates the expression, while
+the Expression Tree stores the complete structure of the expression.
+Therefore, the Expression Tree provides additional information such
+as parent-child relationships, sub-expressions and different tree
+traversals.
