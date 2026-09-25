@@ -2,7 +2,7 @@ COMPARISON OF TWO APPROACHES
 
 Feature                 Stack-Based Postfix    Expression Tree
 ----------------------------------------------------------------
-Data Structure          Stack                  Binary Tree + Stack
+Data Structure          Stack                  Binary Tree 
 Evaluation              Direct                 Recursive
 Time Complexity         O(n)                   O(n)
 Space Complexity        O(n)                   O(n)
