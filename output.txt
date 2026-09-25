@@ -5,3 +5,8 @@ Preorder  : - + 8 * 3 2 / 6 2
 Postorder : 8 3 2 * + 6 2 / -
 
 Expression Tree Evaluation = 11
+
+Stack-Based Postfix Evaluation:
+8 3 2 * + 6 2 / -
+
+Final Result = 11
